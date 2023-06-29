@@ -23,13 +23,23 @@ Welcome to the Content Management System project! This dynamic web application s
 1. Clone the repository:
 ``` git clone https://github.com/AviralMehrotra/Content-Management-System.git ```
 
-2. Move the project folder into the `htdocs` directory of your XAMPP installation. The path may vary, but it is usually located at:
-
-C:\xampp\htdocs\
+2. Move the project folder into the `htdocs` directory of your XAMPP installation. The path may vary, but it is usually located at:  `C:\xampp\htdocs\`
 
 3. Start XAMPP and ensure the Apache and MySQL services are running.
 
-4. Open a web browser and navigate to `http://localhost/Content-Management-System/` to access the application.
+4. Open a web browser and navigate to http://localhost/Content-Management-System/ to access the application.
+
+5. Import the database schema:
+
+6. Open phpMyAdmin by visiting http://localhost/phpmyadmin in your web browser.
+
+7. Create a new database named cms.
+
+8. In the cms database, click on the Import tab.
+  
+9. Choose the cms.sql file located in the database folder of the project.
+   
+10. Click on the Go button to import the database schema.
 
 ## Usage
 

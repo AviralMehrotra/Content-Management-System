@@ -1,6 +1,6 @@
 # Content Management System
 
-Welcome to the Content Management System project! This dynamic web application serves as a robust content management platform built using PHP and MySQL. It was developed as Task 1 during my Full Stack Web Development Internship at Bharat Intern.
+Welcome to the Content Management System project! This dynamic web application serves as a robust content management platform built using PHP and MySQL. It provides an intuitive interface for managing content, users, and posts effectively.
 
 ## Features
 

@@ -21,7 +21,7 @@ Welcome to the Content Management System project! This dynamic web application s
 ## Installation and Setup
 
 1. Clone the repository:
-``` git clone https://github.com/YourUsername/Content-Management-System.git ```
+``` git clone https://github.com/AviralMehrotra/Content-Management-System.git ```
 
 2. Move the project folder into the `htdocs` directory of your XAMPP installation. The path may vary, but it is usually located at:
 
